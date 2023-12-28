@@ -1,6 +1,6 @@
 [submodule "TruthWear---Backend"]
 	path = TruthWear---Backend
-	url = https://github.com/Tahmeerpasha/TruthWear---Backend.git
+	url = https://github.com/Tahmeerpasha/TruthWear---Backend/tree/master
 [submodule "TruthWear---FrontEnd"]
 	path = TruthWear---FrontEnd
-	url = https://github.com/Tahmeerpasha/TruthWear---FrontEnd.git
+	url = https://github.com/Tahmeerpasha/TruthWear---FrontEnd/tree/master
